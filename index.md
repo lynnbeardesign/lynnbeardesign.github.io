@@ -1,37 +1,251 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<!--
+	Phantom by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Lynn Design</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-You can use the [editor on GitHub](https://github.com/lynnbeardesign/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+							<!-- Logo -->
+								<a href="index.html" class="logo"><span class="title"><a href="index.html" class="logo"><span class="symbol"><img src="images/logo.png" alt="" /></span><span class=''title''>Lynn Design<span></a>
 
-### Markdown
+							<!-- Nav -->
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+						</div>
+					</header>
 
-```markdown
-Syntax highlighted code block
+				<!-- Menu -->
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+                            <li><a href="index.html">Home</a></li>
+							<li><a href="about.html">About Me</a></li>
+							<li><a href="illustration.html">Illustration</a></li>
+							<li><a href="poster.html">Poster Design</a></li>
+							<li><a href="motion.html">Motion Graphics</a></li>
+							<li><a href="picture.html">Picture Book</a></li>
+                          <li><a href="icon.html">Icon</a></li>
+                            <li><a href="maya.html">Maya</a></li>
+                            <li><a href="product.html">Product Design</a></li>
+						</ul>
+					</nav>
 
-# Header 1
-## Header 2
-### Header 3
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<header>
+															</header>
+                                                            <h2>illustration</h2>
+							<section class="tiles">
+								<article class="style1">
+									<span class="image">
+										<img src="images/pic01.jpg" alt="創學力" />
+									</span>
+									<a href="illustration.html">
+										<h2>creative studying</h2>
+										<div class="content">
+											<p><h4>Youth Policy Paper-Young Makers</h4></p>
+										</div>
+									</a>
+								</article>
+								<article class="style2">
+									<span class="image">
+										<img src="images/pic02.jpg" alt="公民力" />
+									</span>
+									<a href="illustration.html">
+										<h2>Civic Competence</h2>
+										<div class="content">
+											<p><h4>Youth Policy Paper-Young Makers</h4></p>
+										</div>
+									</a>
+								</article>
+								<article class="style3">
+									<span class="image">
+										<img src="images/pic03.jpg" alt="健康力" />
+									</span>
+								  <a href="illustration.html">
+										<h2>Health</h2>
+								  <div class="content">
+											<p><h4>Youth Policy Paper-Young Makers</h4></p>
+									  </div>
+								  </a>
+                                  <div><a>
+                                     <h2 class="inner">poster design</h2>
+                                     </a></div>
+								</article>
+								<article class="style4">
+									<span class="image">
+										<img src="images/pic16.jpg" alt="憂鬱" />
+									</span>
+									<a href="generic.html">
+										<h2>mental health poster</h2>
+										<div class="content">
+									    <p><h4>melancholy</h4></p>
+										</div>
+									</a>
+								</article>
+								<article class="style5">
+									<span class="image">
+										<img src="images/pic18.jpg" alt="依賴" />
+									</span>
+									<a href="generic.html">
+										<h2>mental health poster</h2>
+										<div class="content">
+											<p><h4>depend</h4></p>
+										</div>
+									</a>
+								</article>
+							  <article class="style6">
+									<span class="image">
+									<img src="images/pic19.jpg" alt="孤僻" />
+									</span>
+									<a href="generic.html">
+										<h2>mental health poster</h2>
+										<div class="content">
+											<p><h4>unsocial</h4></p>
+										</div>
+									</a>
+                                
+                                 
+								</article>
+								<article class="style2">
+									<span class="image">
+										<img src="images/pic07.jpg" alt="" />
+									</span>
+									<a href="generic.html">
+										<h2>Ipsum</h2>
+										<div class="content">
+											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style3">
+									<span class="image">
+										<img src="images/pic08.jpg" alt="" />
+									</span>
+									<a href="generic.html">
+										<h2>Dolor</h2>
+										<div class="content">
+											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style1">
+									<span class="image">
+										<img src="images/pic09.jpg" alt="" />
+									</span>
+									<a href="generic.html">
+										<h2>Nullam</h2>
+										<div class="content">
+											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style5">
+									<span class="image">
+										<img src="images/pic10.jpg" alt="" />
+									</span>
+									<a href="generic.html">
+										<h2>Ultricies</h2>
+										<div class="content">
+											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style6">
+									<span class="image">
+										<img src="images/pic11.jpg" alt="" />
+									</span>
+									<a href="generic.html">
+										<h2>Dictum</h2>
+										<div class="content">
+											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style4">
+									<span class="image">
+										<img src="images/pic12.jpg" alt="" />
+									</span>
+									<a href="generic.html">
+										<h2>Pretium</h2>
+										<div class="content">
+											<p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+										</div>
+									</a>
+								</article>
+							</section>
+						</div>
+					</div>
 
-- Bulleted
-- List
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<section>
+								<h2>Get in touch</h2>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<input type="text" name="name" id="name" placeholder="Name" />
+										</div>
+										<div class="field half">
+											<input type="email" name="email" id="email" placeholder="Email" />
+										</div>
+										<div class="field">
+											<textarea name="message" id="message" placeholder="Message"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send" class="primary" /></li>
+									</ul>
+								</form>
+							</section>
+							<section>
+								<h2>Follow</h2>
+								<ul class="icons">
+									<li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-500px"><span class="label">500px</span></a></li>
+									<li><a href="#" class="icon solid style2 fa-phone"><span class="label">Phone</span></a></li>
+									<li><a href="#" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+								</ul>
+							</section>
+							<ul class="copyright">
+								<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
 
-1. Numbered
-2. List
+			</div>
 
-**Bold** and _Italic_ and `Code` text
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lynnbeardesign/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	</body>
+</html>

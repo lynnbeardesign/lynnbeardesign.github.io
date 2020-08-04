@@ -1,5 +1,4 @@
-<!DOCTYPE HTML>
-<!--
+
 	Phantom by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -21,7 +20,7 @@
 						<div class="inner">
 
 							<!-- Logo -->
-								<a href="index.html" class="logo"><span class="title"><a href="index.html" class="logo"><span class="symbol"><img src="images/logo.png" alt="" /></span><span class=''title''>Lynn Design<span></a>
+								<a href="index.html" class="logo"><span class="title"><a href="index.html" class="logo"><span class="symbol"><img src="images/logo.png" alt="" /></span><span class="title">Lynn Design<span></a>
 
 							<!-- Nav -->
 								<nav>
